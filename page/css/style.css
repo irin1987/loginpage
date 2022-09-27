@@ -1,0 +1,53 @@
+*{margin:0;
+ padding: 0;
+ border: 0;}
+ body{
+     background-color: rgba(72, 36, 8, 0.743);
+    }
+#admin-box{
+background-color: rgb(218, 149, 75);
+text-align:center;
+width: 50%;
+margin: 5%auto;
+padding: 10px;
+border: 10px;
+ border-radius: 10px;}
+#admin-img{ 
+    width: 50px;}
+#admin-box h1{
+    font: size 35px;
+    text-transform:uppercase
+}
+label,
+input{ display: block;
+width:90%;
+ margin:auto;
+padding: 20px;
+}
+input{
+    background-color: burlywood;
+    color: rgb(99, 65, 65);
+    padding: 10px; ;
+    margin: auto;
+    border:1px solid black
+    border-radius 5px;
+}
+label{
+    font-size: 20px;}
+input-focus
+{background-color: black;}
+p{
+font-size:20px
+}
+p a{
+    text-decoration: none;
+    color:black
+    text-transform:Lowercase}
+ input[type="submit"]{
+    background-color: rgb(132, 94, 24);
+   padding: 10px;  
+margin: 20px auto;
+width: 25%;
+border: 1px solid black; }
+#btn:hover{
+    background-color:transparent ;}
